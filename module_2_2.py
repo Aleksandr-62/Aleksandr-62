@@ -6,4 +6,4 @@ if first == second and first == third and second == third:
 elif first != second and first != third and second != third:
     print("0")
 else:
-    print ('1')
+    print ('2')
