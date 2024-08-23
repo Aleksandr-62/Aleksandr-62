@@ -1,6 +1,2 @@
-- 🌱  Я в настоящее время изучаю  Python
-- ☎  Как со мной связаться: телеграмм @Alexandr62reg
-
-
-
-
+- 🌱 I am currently learning Python
+- ☎ How to contact me: telegram @Alexandr62reg
