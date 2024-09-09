@@ -13,5 +13,5 @@ def test_function():   #1
     inner_function()    #3 здесь функция ничего не возвращает
 
 
-#inner_function()  # здесь функция не определена, ошибка
+#inner_function()  #4 здесь функция не определена, ошибка
 test_function()
