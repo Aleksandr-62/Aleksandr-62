@@ -2,8 +2,7 @@ def add_everything_up(a, b):
     try:
 
         if isinstance(a, (int, float)) and isinstance(b, (int, float)):
-            return round(a + b, 2)
-
+            return round(a + b, 3)
         elif isinstance(a, str) and isinstance(b, str):
             return a + b
 
